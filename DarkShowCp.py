@@ -109,34 +109,30 @@ cpb = []
 vulnot = '\x1b[31mNot Vuln'
 vuln = '\x1b[32mVuln'
 os.system('clear')
-logo = """ 
-           
-logo = """
-this tool created by Arez
-Telegram/Ravo_m
-Telegram Chenall System_Zonem   
-          :)Arez:(
---------------------------------------
-   Note:Xat korek bakar bene facebook axom
 
-      
-
-
-        """
-logo2 = """                                                                     
-                                                                        
 logo = """
 
-this tool created by Arez
-Telegram/Ravo_m
-Telegram Chenall System_Zonem   
-          :)Arez:(
-
---------------------------------------
-   Note:Xat korek bakar bene facebook axom
-
-
-       """
+\033[1;91m  |     ---     |    / |----- |----
+\033[1;91m  |   /     \   |  /   |      |   /
+\033[1;91m  |  |       |  |/     |___   | /
+\033[1;91m  |  |       |  |\     |      |\
+\033[1;91m| |   \     /   |  \   |      | \
+\033[1;91m\_/     ---     |   \  |----- |  \
+\033[1;92mAUTHER/AREZ
+\033[1;92mChenall/System_zonem
+\033[1;92mid Activa dlm      
+"""
+logo2 = """
+\033[1;91m  |     ---     |    / |----- |----
+\033[1;91m  |   /     \   |  /   |      |   /
+\033[1;91m  |  |       |  |/     |___   | /
+\033[1;91m  |  |       |  |\     |      |\
+\033[1;91m| |   \     /   |  \   |      | \
+\033[1;91m\_/     ---     |   \  |----- |  \
+\033[1;92mAUTHER/AREZ
+\033[1;92mChenall/System_zonem
+\033[1;92mid Activa dlm"""
+"""
 CorrectUsername = 'Arez'
 CorrectPassword = 'FT'
 os.system('clear')
