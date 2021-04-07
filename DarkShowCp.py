@@ -112,20 +112,6 @@ os.system('clear')
 logo = """ 
            
 logo = """
-DDDD      AAAA       RRRR       KK   KK
-DD  DD    AA  AA     RR  RR     KK KK
-DD    DD  AA   AA    RR   RR    KKKK
-DD   DD   AA    AA   RRRRRR     KK KK
-DD DD     AAAAAAAAA  RR   RR    KK  KK
-DDD       AA      AA RR    RR   KK   KK
-
-  SSSS    HH    HH      OOO WW          WW         WW
- SS  SS   HH    HH    OO   OO WW       WW WW      WW
- SS       HHHHHHHH  OO       OO WW    WW   WW    WW
-   SS     HHHHHHHH OO         OO WW  WW     WW  WW
- SS  SS   HH    HH   OO     OO    WWWW       WWWW
-   SSS    HH    HH      OOO        WW         WW
- 
 \033[1;94mthis tool created by Arez
 \033[1;98mTelegram/Ravo_m
 \033[1;91mTekegram Chenall System_Zonem
@@ -140,20 +126,7 @@ DDD       AA      AA RR    RR   KK   KK
 logo2 = """                                                                     
                                                                         
 logo = """
-DDDD      AAAA       RRRR       KK   KK
-DD  DD    AA  AA     RR  RR     KK KK
-DD    DD  AA   AA    RR   RR    KKKK
-DD   DD   AA    AA   RRRRRR     KK KK
-DD DD     AAAAAAAAA  RR   RR    KK  KK
-DDD       AA      AA RR    RR   KK   KK
 
-  SSSS    HH    HH      OOO WW          WW         WW
- SS  SS   HH    HH    OO   OO WW       WW WW      WW
- SS       HHHHHHHH  OO       OO WW    WW   WW    WW
-   SS     HHHHHHHH OO         OO WW  WW     WW  WW
- SS  SS   HH    HH   OO     OO    WWWW       WWWW
-   SSS    HH    HH      OOO        WW         WW
- 
 \033[1;94mthis tool created by Arez
 \033[1;98mTelegram/Ravo_m
 \033[1;91mTekegram Chenall System_Zonem
