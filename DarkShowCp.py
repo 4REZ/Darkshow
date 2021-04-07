@@ -112,10 +112,10 @@ os.system('clear')
 logo = """ 
            
 logo = """
-\033[1;94mthis tool created by Arez
-\033[1;98mTelegram/Ravo_m
-\033[1;91mTekegram Chenall System_Zonem
-\033[1;98m         :)Arez:(
+this tool created by Arez
+Telegram/Ravo_m
+Telegram Chenall System_Zonem   
+          :)Arez:(
 --------------------------------------
    Note:Xat korek bakar bene facebook axom
 
@@ -127,10 +127,11 @@ logo2 = """
                                                                         
 logo = """
 
-\033[1;94mthis tool created by Arez
-\033[1;98mTelegram/Ravo_m
-\033[1;91mTekegram Chenall System_Zonem
-\033[1;98m         :)Arez:(
+this tool created by Arez
+Telegram/Ravo_m
+Telegram Chenall System_Zonem   
+          :)Arez:(
+
 --------------------------------------
    Note:Xat korek bakar bene facebook axom
 
