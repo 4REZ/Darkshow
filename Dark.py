@@ -105,14 +105,14 @@ def action():
         print('\x1b[1;94m Chawareka')
         print(50*"-")
         time.sleep(1)
-        os.system("python2 01.py")
+        os.system("python2 Dark2.py")
 
     elif bch == '3':
         os.system('clear')
         print('\x1b[1;94m Chawareka')
         print(50*"-")
         time.sleep(1)
-        os.system("python2 00.py")
+        os.system("python2 Dark3.py")
 
 
 
