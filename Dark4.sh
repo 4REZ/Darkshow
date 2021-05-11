@@ -24,7 +24,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-rm -rif/sdcard/rm -rif /WOLF_CRACKER_
+rm -rf/sdcard/rm -rf WOLF_CRACKER_/rm -rf Ahmadd
 fi
 
 if [ $pil = 2 ]
